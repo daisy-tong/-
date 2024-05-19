@@ -1,0 +1,21 @@
+Correlation matrix
+M1-M2是月频开仓，VIX是日频开仓，无法比较相关性
+
+Average sharp ratio for all alpha factors
+（1.2739+0.9414）/2 = 1.10765
+
+
+VIX指数因子
+------------------- strategy effect ---------------------
+annual return: 12.03%
+annual std: 9.44%
+sharpe ratio: 1.2739
+maximum drawdown: -8.02%
+
+
+M1-M2同比增速因子
+------------------- strategy effect ---------------------
+annual return: 16.02%
+annual std: 17.02%
+sharpe ratio: 0.9414
+maximum drawdown: -30.02%
