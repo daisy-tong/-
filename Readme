@@ -1,5 +1,5 @@
 Correlation matrix
-M1-M2是月频开仓，VIX是日频开仓，无法比较相关性
+M1-M2是月频开仓，VIX是日频开仓，无需比较相关性
 
 Average sharp ratio for all alpha factors
 （1.2739+0.9414）/2 = 1.10765
